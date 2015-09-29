@@ -1,6 +1,8 @@
 Chain
 =====
 
+[![Join the chat at https://gitter.im/cocur/chain](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cocur/chain?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Chain provides you with a consistent and chainable way to work with arrays in PHP.
 
 [![Build Status](https://img.shields.io/travis/cocur/chain/master.svg?style=flat)](https://travis-ci.org/cocur/chain)
